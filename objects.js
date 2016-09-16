@@ -22,7 +22,10 @@ function printDetails(p) {
 
 printDetails(will)
 */
-/*
+
+
+
+/* undefine
 var will = {
     firstName: "William",
     lastName: "Carty",
@@ -50,5 +53,7 @@ function printDetails(p) {
 printDetails(will)
 */
 
-var number=Math.floor(500*3);
+
+
+var number = Math.floor(500 * 3);
 console.log(number);
